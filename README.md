@@ -11,7 +11,6 @@
 - 📍 Currently based in Los Angeles, CA
 - 📚 Usually programming, studying data structures and algorithms or building apps
 - 💬 Ask me about finance, tech, tv series, gaming
-- 🎮 Platinum 3 in Valorant and level 229 in MapleStory
 
 ### Languages and Tools:
 
